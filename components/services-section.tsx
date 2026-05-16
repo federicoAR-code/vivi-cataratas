@@ -9,46 +9,46 @@ import { Button } from "@/components/ui/button"
 
 const services = [
   {
-    icon: Hotel,
+    icon: Hotel, 
     title: "Desde tu hotel a Cataratas",
     description: "Conexión directa entre tu hotel y el Parque Nacional Iguazú con horarios flexibles y comodidad premium.",
-    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2940&auto=format&fit=crop",
+    image: "/hotel.jpeg",
   },
   {
     icon: Globe,
     title: "Foz do Iguaçu (Brasil)",
     description: "Cruzá la frontera y descubrí el lado brasileño de las Cataratas con documentación incluida.",
-    image: "https://images.unsplash.com/photo-1619546952812-520e98064a52?q=80&w=2942&auto=format&fit=crop",
+    image: "/brasli.jpeg",
   },
   {
     icon: Flag,
     title: "Hito Tres Fronteras",
     description: "Visitá el emblemático punto donde confluyen Argentina, Brasil y Paraguay.",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%2014%20may%202026%2C%2013_18_35-O2zXTjO1z8PyyJFaMJ26cbdbdLhpuW.png",
+    image: "/hito.jpeg",
   },
   {
     icon: Landmark,
     title: "Ruinas de San Ignacio",
     description: "Explorá las históricas misiones jesuíticas, Patrimonio de la Humanidad por la UNESCO.",
-    image: "https://images.unsplash.com/photo-1580618432485-1e08c5039909?q=80&w=2940&auto=format&fit=crop",
+    image: "/ruinas.jpeg",
   },
   {
     icon: Waves,
     title: "Saltos del Moconá",
     description: "Descubrí los impresionantes saltos longitudinales únicos en el mundo sobre el río Uruguay.",
-    image: "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?q=80&w=2940&auto=format&fit=crop",
+    image: "/mocona.jpeg",
   },
   {
     icon: ShoppingBag,
     title: "Tours de Compras en CDE (Paraguay)",
     description: "Disfrutá de compras en Ciudad del Este con traslado seguro y guía de las mejores zonas comerciales.",
-    image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2940&auto=format&fit=crop",
+    image: "/cde.jpeg",
   },
   {
     icon: TreePine,
     title: "Trekking y Aventuras en la Selva",
     description: "Viví la experiencia de la selva misionera con traslados a senderos y actividades de aventura.",
-    image: "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2940&auto=format&fit=crop",
+    image: "/selva.jpeg",
   },
   {
     icon: Settings,
