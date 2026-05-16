@@ -18,7 +18,7 @@ const services = [
     icon: Globe,
     title: "Foz do Iguaçu (Brasil)",
     description: "Cruzá la frontera y descubrí el lado brasileño de las Cataratas con documentación incluida.",
-    image: "/brasli.jpeg",
+    image: "/brasil.jpeg",
   },
   {
     icon: Flag,
